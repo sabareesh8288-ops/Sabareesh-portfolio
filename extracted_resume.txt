@@ -1,0 +1,75 @@
+Found 2 resume files in Downloads:
+- C:\Users\stv74\Downloads\Sabareesh_A_RWS_AI_Data_Annotation_Resume_Updated.docx (38476 bytes)
+- C:\Users\stv74\Downloads\Sabareesh_A_RWS_AI_Data_Annotation_Resume_Updated (1).docx (38476 bytes)
+
+========================================
+EXTRACTED TEXT FROM: C:\Users\stv74\Downloads\Sabareesh_A_RWS_AI_Data_Annotation_Resume_Updated.docx
+========================================
+
+SABAREESH A
+B.Tech Information Technology Student
+9344790341  |  sabareesh8288@gmail.com
+CAREER OBJECTIVE
+Motivated B.Tech Information Technology student with strong interest in technology, artificial intelligence, and data-related work. Fluent in Tamil with advanced English proficiency and strong attention to detail. Seeking opportunities to contribute to AI data evaluation, annotation, and quality improvement tasks while developing professional skills.
+EDUCATION
+B.Tech – Information TechnologyKnowledge Institute of TechnologyExpected Graduation: 2028  |  Current CGPA: 7.50
+TECHNICAL SKILLS
+Programming Languages: Java, C++
+Data & Problem Solving: Basic data structures and algorithmic problem-solving
+Technology Interests: Artificial Intelligence, Data Evaluation, Data Annotation, and UI/UX
+PROJECTS
+Freelancer–Client Connection Platform
+Created a website that connects freelancers and clients on a single platform.
+Designed separate user experiences for clients to find opportunities and freelancers to showcase their skills and connect with potential clients.
+Focused on creating a platform that supports interaction and collaboration between clients and freelancers.
+GlowStyleDB – Smart Fashion & Skincare Platform
+Developed a web application that helps users manage and style their existing wardrobe based on events, weather, places, and personal preferences.
+Designed a skincare feature concept that can analyze skin type and provide personalized skincare recommendations and remedies.
+Focused on creating a practical platform that helps users make better use of their existing clothes and improve their personal styling experience.
+LANGUAGES
+Tamil: Native-level fluency
+English: Advanced proficiency
+RELEVANT STRENGTHS
+Strong attention to detail
+Willingness to learn and work with AI-related data tasks
+Ability to evaluate and compare information carefully
+Interest in technology and digital platforms
+ADDITIONAL INFORMATION
+Current student pursuing a Bachelor's degree
+Available for suitable remote/flexible work opportunities
+
+========================================
+EXTRACTED TEXT FROM: C:\Users\stv74\Downloads\Sabareesh_A_RWS_AI_Data_Annotation_Resume_Updated (1).docx
+========================================
+
+SABAREESH A
+B.Tech Information Technology Student
+9344790341  |  sabareesh8288@gmail.com
+CAREER OBJECTIVE
+Motivated B.Tech Information Technology student with strong interest in technology, artificial intelligence, and data-related work. Fluent in Tamil with advanced English proficiency and strong attention to detail. Seeking opportunities to contribute to AI data evaluation, annotation, and quality improvement tasks while developing professional skills.
+EDUCATION
+B.Tech – Information TechnologyKnowledge Institute of TechnologyExpected Graduation: 2028  |  Current CGPA: 7.50
+TECHNICAL SKILLS
+Programming Languages: Java, C++
+Data & Problem Solving: Basic data structures and algorithmic problem-solving
+Technology Interests: Artificial Intelligence, Data Evaluation, Data Annotation, and UI/UX
+PROJECTS
+Freelancer–Client Connection Platform
+Created a website that connects freelancers and clients on a single platform.
+Designed separate user experiences for clients to find opportunities and freelancers to showcase their skills and connect with potential clients.
+Focused on creating a platform that supports interaction and collaboration between clients and freelancers.
+GlowStyleDB – Smart Fashion & Skincare Platform
+Developed a web application that helps users manage and style their existing wardrobe based on events, weather, places, and personal preferences.
+Designed a skincare feature concept that can analyze skin type and provide personalized skincare recommendations and remedies.
+Focused on creating a practical platform that helps users make better use of their existing clothes and improve their personal styling experience.
+LANGUAGES
+Tamil: Native-level fluency
+English: Advanced proficiency
+RELEVANT STRENGTHS
+Strong attention to detail
+Willingness to learn and work with AI-related data tasks
+Ability to evaluate and compare information carefully
+Interest in technology and digital platforms
+ADDITIONAL INFORMATION
+Current student pursuing a Bachelor's degree
+Available for suitable remote/flexible work opportunities
